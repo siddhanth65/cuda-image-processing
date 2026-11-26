@@ -1,0 +1,6 @@
+cuda_image_processing
+output/*.ppm
+results/*.csv
+results/*.log
+screenshots/*
+!screenshots/.gitkeep
